@@ -1,6 +1,6 @@
 # SQL SERVER
 
-<p>Repositório para armazenar comandos e exercícios praticados em aula de Sql servere e scrit com comando de Linux e Docker para criação de um container Docker com sql Server para utilizar como server.</p>
+<p>Repositório para armazenar comandos e exercícios praticados na aula de Sql server e script com comandos de Linux e Docker para criação de um container com sql Server para utilizar como server.</p>
 
 ---
 ## Script para gerar container Docker com Sql Server
